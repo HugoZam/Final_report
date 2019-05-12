@@ -16,6 +16,8 @@ the majority of the work was migrating our use of pulling meta data from mongo D
 1. Trello Card(s) that shows the completed artifact (screen shot of card)  
 
 ![Screenshot](https://github.com/HugoZam/Final_report/blob/master/trello_card_1.PNG)
+![Screenshot](https://github.com/HugoZam/Final_report/blob/master/trello_card_2.PNG)
+![Screenshot](https://github.com/HugoZam/Final_report/blob/master/trello_card_3.PNG)
 
 1. Github code commits
     1) Under the History tab in GitHub you will see the repo commit history and each commit has a SHA-1 hash, supply this URL

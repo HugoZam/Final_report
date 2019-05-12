@@ -15,9 +15,9 @@ the majority of the work was migrating our use of pulling meta data from mongo D
 1. Correlate the personal sprint report with completed goals stated in the sprint report
 1. Trello Card(s) that shows the completed artifact (screen shot of card)  
 
-![Screenshot](https://github.com/HugoZam/Final_report/blob/master/trello_card_1.PNG)
-![Screenshot](https://github.com/HugoZam/Final_report/blob/master/trello_card_2.PNG)
-![Screenshot](https://github.com/HugoZam/Final_report/blob/master/trello_card_3.PNG)
+![Screenshot](https://github.com/HugoZam/Final_report/blob/master/final_template/trello_card_1.PNG)
+![Screenshot](https://github.com/HugoZam/Final_report/blob/master/final_template/trello_card_2.PNG)
+![Screenshot](https://github.com/HugoZam/Final_report/blob/master/final_template/trello_card_3.PNG)
 
 1. Github code commits
     1) Under the History tab in GitHub you will see the repo commit history and each commit has a SHA-1 hash, supply this URL
@@ -34,9 +34,9 @@ the majority of the work was migrating our use of pulling meta data from mongo D
 1. Each team member should comment on their own accomplishments (Taken word for word from the sprint reports) and describe what they did and explain any decisions referencing any lectures or material from the text book or web.
 1. Correlate the personal sprint report with completed goals stated in the sprint report
 1. Trello Card(s) that shows the completed artifact (screen shot of card)  
-![Screenshot](https://github.com/HugoZam/Final_report/blob/master/trello_card_4.PNG)
-![Screenshot](https://github.com/HugoZam/Final_report/blob/master/trello_card_5.PNG)
-![Screenshot](https://github.com/HugoZam/Final_report/blob/master/trello_card_6.PNG)
+![Screenshot](https://github.com/HugoZam/Final_report/blob/master/final_template/trello_card_4.PNG)
+![Screenshot](https://github.com/HugoZam/Final_report/blob/master/final_template/trello_card_5.PNG)
+![Screenshot](https://github.com/HugoZam/Final_report/blob/master/final_template/trello_card_6.PNG)
 1. Github code commits
     1) Under the History tab in GitHub you will see the repo commit history and each commit has a SHA-1 hash, supply this URL
     2) https://github.com/illinoistech-itm/2019-team-08f/commit/cd72af37fab4a18305128963ea3fa57c4959cb4e
@@ -47,8 +47,8 @@ the majority of the work was migrating our use of pulling meta data from mongo D
 1. Each team member should comment on their own accomplishments (Taken word for word from the sprint reports) and describe what they did and explain any decisions referencing any lectures or material from the text book or web.
 1. Correlate the personal sprint report with completed goals stated in the sprint report
 1. Trello Card(s) that shows the completed artifact (screen shot of card)  
-![Screenshot](https://github.com/HugoZam/Final_report/blob/master/trello_card_7.PNG)
-![Screenshot](https://github.com/HugoZam/Final_report/blob/master/trello_card_8.PNG)
+![Screenshot](https://github.com/HugoZam/Final_report/blob/master/final_template/trello_card_7.PNG)
+![Screenshot](https://github.com/HugoZam/Final_report/blob/master/final_template/trello_card_8.PNG)
 
 1. Github code commits
     1) Under the History tab in GitHub you will see the repo commit history and each commit has a SHA-1 hash, supply this URL

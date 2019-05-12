@@ -15,7 +15,7 @@ the majority of the work was migrating our use of pulling meta data from mongo D
 1. Correlate the personal sprint report with completed goals stated in the sprint report
 1. Trello Card(s) that shows the completed artifact (screen shot of card)  
 
-![Screenshot](https://github.com/illinoistech-itm/2019-team-08f/blob/master/diagrams/sprint-report-screenshots/schemas.JPG)
+![Screenshot](https://github.com/HugoZam/Final_report/blob/master/trello_card_1.PNG)
 
 1. Github code commits
     1) Under the History tab in GitHub you will see the repo commit history and each commit has a SHA-1 hash, supply this URL

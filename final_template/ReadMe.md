@@ -32,11 +32,18 @@ the majority of the work was migrating our use of pulling meta data from mongo D
 ### Sprint 5
 
 1. Each team member should comment on their own accomplishments (Taken word for word from the sprint reports) and describe what they did and explain any decisions referencing any lectures or material from the text book or web.
+
+As a junior developer two of my main tasks to get working where editing the metadata in the pictures to change the tag function, and to add multiple images while retaining a dynamic way for adding a tag to each image being added. I was unable to figure out the changing the meta data because it would not remove the old tag but add a new one alongside the old one. I hope to figure out how to fix this problem in the future.
+
+For majority of this sprint I spent doing research with Tom on the best way to do multiples of both tag and image upload. In the end we did a quick work around our problem by letting the user choose Up to 5 images by adding 5 individual buttons to add an image instead having one and being able to select multiple images through the file selection. This ended up being a limitation from mongoDB rather than our logic. By the end of the sprint we did end up having what we wanted to accomplish done but not in the exact sleekest way possible UI wise.
+
 1. Correlate the personal sprint report with completed goals stated in the sprint report
+
 1. Trello Card(s) that shows the completed artifact (screen shot of card)  
 ![Screenshot](https://github.com/HugoZam/Final_report/blob/master/final_template/trello_card_4.PNG)
 ![Screenshot](https://github.com/HugoZam/Final_report/blob/master/final_template/trello_card_5.PNG)
 ![Screenshot](https://github.com/HugoZam/Final_report/blob/master/final_template/trello_card_6.PNG)
+
 1. Github code commits
     1) Under the History tab in GitHub you will see the repo commit history and each commit has a SHA-1 hash, supply this URL
     2) https://github.com/illinoistech-itm/2019-team-08f/commit/cd72af37fab4a18305128963ea3fa57c4959cb4e
@@ -45,6 +52,11 @@ the majority of the work was migrating our use of pulling meta data from mongo D
 ### Sprint 6
 
 1. Each team member should comment on their own accomplishments (Taken word for word from the sprint reports) and describe what they did and explain any decisions referencing any lectures or material from the text book or web.
+
+As IT Operations part of my main task was troubleshooting why building the machine didn't work on a machine and what could be improved on within the script so that everyone could successfully build. Especially with the added build step for the database we had constant stand stills on machines for almost no apparent reason.
+
+During this phase I spent a lot of the time with Wenzhao trying to debug everyone's machines when they would get stuck during the running of our build script. Tom, Akshay, and Jingwen being the most troubling for there own reasons. We did some modifications to the instructions based on certain errors that would come up and work arounds for them. I believe it fell in line with what we wanted to accomplish which is have everyone have a successful build on a work machine they own
+
 1. Correlate the personal sprint report with completed goals stated in the sprint report
 1. Trello Card(s) that shows the completed artifact (screen shot of card)  
 ![Screenshot](https://github.com/HugoZam/Final_report/blob/master/final_template/trello_card_7.PNG)

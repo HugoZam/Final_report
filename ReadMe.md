@@ -22,6 +22,13 @@ the majority of the work was migrating our use of pulling meta data from mongo D
 1. Github code commits
     1) Under the History tab in GitHub you will see the repo commit history and each commit has a SHA-1 hash, supply this URL
 
+
+    2) https://github.com/illinoistech-itm/2019-team-08f/commit/23f6215a336d66d3663776162ce9e6421dbdee10
+
+    3) https://github.com/illinoistech-itm/2019-team-08f/commit/b70da3181e018d018823b95f35ed30c8dc1d1690
+    4) https://github.com/illinoistech-itm/2019-team-08f/commit/26168cf452a164560b10291a3dfe4336ee04ccbe
+    5)https://github.com/illinoistech-itm/2019-team-08f/commit/962979e5fe89c6e17bc4975fcff8cc27737fda8f
+    6)https://github.com/illinoistech-itm/2019-team-08f/commit/785d07299adc49c8362969b622d2500ec5b35a31
 ### Sprint 5
 
 1. Each team member should comment on their own accomplishments (Taken word for word from the sprint reports) and describe what they did and explain any decisions referencing any lectures or material from the text book or web.
@@ -32,6 +39,8 @@ the majority of the work was migrating our use of pulling meta data from mongo D
 ![Screenshot](https://github.com/HugoZam/Final_report/blob/master/trello_card_6.PNG)
 1. Github code commits
     1) Under the History tab in GitHub you will see the repo commit history and each commit has a SHA-1 hash, supply this URL
+    2) https://github.com/illinoistech-itm/2019-team-08f/commit/cd72af37fab4a18305128963ea3fa57c4959cb4e
+    3) https://github.com/illinoistech-itm/2019-team-08f/commit/b8826ba83e09ae129cb78b90dd968decea70862c
 
 ### Sprint 6
 
